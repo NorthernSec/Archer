@@ -1,3 +1,17 @@
+/*
+ * Archer:
+ *	Webserver stress test tool that uses common and simple
+ *	attacks to test your own server's network security.
+ *	
+ *	Note: USE ONLY FOR EDUCATIONAL PURPOSE.
+ *
+ *	Author: Robin Abony <robin.abony@gmail.com>
+ *	Copyright (c) 2015 NorthernSec
+ *	Copyright (c) 2015 Robin Abony
+ *
+ *	This software is licensed under the Original BSD License.
+ */
+
 #include "main.h"
 
 
